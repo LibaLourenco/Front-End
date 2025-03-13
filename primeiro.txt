@@ -2,3 +2,6 @@ primeira alteração do arquivo
 nova alterção	
 
 Eninando Git/Github
+
+estou iniciando na carreira de Dev
+
